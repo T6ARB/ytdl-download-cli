@@ -1,4 +1,4 @@
-ytdl-advanced-cli
+ytdl-download-cli
 
 Advanced YouTube Video & Playlist Downloader CLI
 
@@ -18,8 +18,8 @@ Advanced YouTube Video & Playlist Downloader CLI
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/ytdl-advanced-cli.git
-cd ytdl-advanced-cli
+git clone https://github.com/T6ARB/ytdl-download-cli.git
+cd ytdl-download-cli
 pip install -r requirements.txt
 ```
 
@@ -67,9 +67,3 @@ python ytdl.py download <youtube_url> --output /path/to/folder
 - Progress bar updates in terminal  
 - Uses `yt-dlp` under the hood (a powerful youtube-dl fork)  
 - Requires `ffmpeg` installed and available in PATH  
-
----
-
-## License
-
-MIT License آ© 2025 Your Name
