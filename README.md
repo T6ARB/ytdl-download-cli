@@ -18,7 +18,7 @@ Advanced YouTube Video & Playlist Downloader CLI
 ## Installation
 
 ```bash
-git clone https://github.com/T6ARB/ytdl-download-cli.git
+git clone https://github.com/QK-KV/ytdl-download-cli.git
 cd ytdl-download-cli
 pip install -r requirements.txt
 ```
